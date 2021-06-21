@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jobendik
+- 👀 I’m interested in web development, machine learning, game development, and much more. :)
+- 🌱 I’m currently learning Javascript and Python
+- 💞️ I’m looking to collaborate on projects related to my interests.
+- 📫 How to reach me: jobendik alpha curl gmail dot com.
