@@ -40,7 +40,7 @@ Background in low-level systems, computer architecture, and custom tooling, incl
 
 Try some of my work:
 
-- 🎯 [TeamDeathmatch](https://jobendik.github.io/TeamDeathmatch/)
+- 🎯 [WarZone](https://jobendik.github.io/WarZone/)
 - 🎮 [Rift](https://playrift.no)
 - 🧪 [Arena](https://playrift.no/arena)
 
