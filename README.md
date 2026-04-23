@@ -20,27 +20,27 @@ I build gameplay systems using JavaScript and TypeScript, with a focus on respon
 ### 🔫 [WarZone](https://github.com/jobendik/WarZone)
 Browser-based multiplayer shooter prototype focused on responsive movement, weapon systems, combat feel, and core gameplay loops.
 
-### 🎮 [Rift](https://www.playrift.no)
-Real-time multiplayer FPS with focus on responsiveness, player movement, and competitive gameplay.
+### 🤖 Game AI & Autonomous Agents
+Experiments in bot behavior, autonomous agents, and gameplay logic for more dynamic and believable game systems.
 
-### 🌐 [AveStella](https://www.avestella.com)
-Multiplayer social platform exploring shared presence, interaction, and persistent online environments.
+### 🌐 Multiplayer & Real-Time Systems
+Work focused on synchronization, networked gameplay, and real-time mechanics designed to feel responsive and playable.
 
-### 🧠 [Nexa](https://github.com/jobendik/Nexa)
-Custom 16-bit computer platform including ISA, assembler, VM, compiler, and operating system.
+### 🧠 Systems & Architecture
+Built **[Nexa](https://github.com/jobendik/Nexa)** — a custom 16-bit computer platform including ISA, assembler, VM, compiler, and operating system.
 
-### 🎯 [Arena](https://www.playrift.no/arena)
-Combat-focused FPS prototype demonstrating weapon feel, responsiveness, and moment-to-moment gameplay.
+Background in low-level systems, computer architecture, and custom tooling, including **Nand2Tetris**, **8-bit systems**, and **embedded platforms**.
 
 ---
 
 ## ▶️ Live Projects
 
-Play some of my work:
+Try some of my work:
 
-- 🎯 https://www.playrift.no
-- 🌐 https://www.avestella.com
-- 🧪 https://www.playrift.no/arena
+- 🎯 [WarZone](https://github.com/jobendik/WarZone)
+- 🎮 [Rift](https://playrift.no)
+- 🫂 [AveStella](https://www.avestella.com)
+- 🧪 [Arena](https://playrift.no/arena)
 
 ---
 
