@@ -33,7 +33,7 @@ Custom 16-bit computer platform including ISA, assembler, VM, compiler, and oper
 
 ## 🧠 Systems Background
 
-Background in low-level systems, computer architecture, and custom tooling, including Nand2Tetris, 8-bit systems, and embedded platforms.
+Background in low-level systems, computer architecture, custom tooling, 8-bit systems, and embedded platforms.
 
 ---
 
