@@ -17,7 +17,7 @@ I build gameplay systems using JavaScript and TypeScript, with a focus on respon
 
 ## 🚀 Selected Work
 
-### 🔫 [TeamDeathmatch](https://github.com/jobendik/TeamDeathmatch)
+### 🔫 WarZone](https://github.com/jobendik/WarZone)
 Browser-based multiplayer shooter prototype focused on responsive movement, weapon systems, combat feel, and core gameplay loops.
 
 ### 🤖 Game AI & Autonomous Agents
