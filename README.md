@@ -2,17 +2,16 @@
 
 Gameplay Developer focused on gameplay systems, multiplayer, game feel, and technically ambitious game projects.
 
-Most of my work so far has been built for the web using JavaScript and TypeScript, with a particular interest in responsive combat, player movement, real-time systems, and intelligent game behavior.
+I build gameplay systems for the web using JavaScript and TypeScript, with a focus on responsive combat, player movement, real-time systems, and intelligent game behavior.
 
 ---
 
 ## 🎮 What I build
 
-- Gameplay systems and player interactions
-- Multiplayer prototypes and real-time game mechanics
-- Combat, movement, and moment-to-moment game feel
-- Client/server gameplay logic and backend-supported features
+- Gameplay systems (combat, movement, interactions)
+- Multiplayer and real-time game mechanics
 - Game AI, bot behavior, and intelligent agents
+- Client/server gameplay logic and backend-supported features
 - UI / HUD systems integrated with gameplay
 
 ---
@@ -35,9 +34,11 @@ Technical projects involving virtual machines, compilers, custom computer archit
 
 ## ▶️ Live Projects
 
-- 👉 [TeamDeathmatch](https://jobendik.github.io/TeamDeathmatch/)
-- 👉 [Rift](https://playrift.no)
-- 👉 [Arena](https://playrift.no/arena)
+Try some of my work:
+
+- 🎯 [TeamDeathmatch](https://jobendik.github.io/TeamDeathmatch/)
+- 🎮 [Rift](https://playrift.no)
+- 🧪 [Arena](https://playrift.no/arena)
 
 ---
 
