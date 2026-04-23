@@ -1,17 +1,18 @@
 # 👋 Hi, I'm Jo Bendik
 
-Gameplay Developer focused on interactive systems, game feel, multiplayer, and technically ambitious game projects.
+Gameplay Developer focused on gameplay systems, multiplayer, game feel, and technically ambitious game projects.
 
-Most of my work so far has been built for the web using JavaScript and TypeScript, with a particular interest in responsive combat, player movement, and gameplay systems that feel good to play.
+Most of my work so far has been built for the web using JavaScript and TypeScript, with a particular interest in responsive combat, player movement, real-time systems, and intelligent game behavior.
 
 ---
 
 ## 🎮 What I build
 
-- Gameplay systems
-- Multiplayer prototypes and real-time mechanics
-- Combat, movement, and player interaction systems
-- Game logic and AI behavior
+- Gameplay systems and player interactions
+- Multiplayer prototypes and real-time game mechanics
+- Combat, movement, and moment-to-moment game feel
+- Client/server gameplay logic and backend-supported features
+- Game AI, bot behavior, and intelligent agents
 - UI / HUD systems integrated with gameplay
 
 ---
@@ -21,11 +22,14 @@ Most of my work so far has been built for the web using JavaScript and TypeScrip
 ### 🔫 TeamDeathmatch
 Browser-based multiplayer shooter prototype focused on responsive movement, weapon systems, combat feel, and core gameplay loops.
 
-### 🌐 Multiplayer Prototypes
-Real-time multiplayer experiments focused on responsiveness, synchronization, and playable core mechanics.
+### 🤖 Game AI & Intelligent Agents
+Experiments in bot behavior, autonomous agents, and gameplay logic for more dynamic and believable game systems.
+
+### 🌐 Multiplayer & Real-Time Systems
+Work focused on synchronization, networked gameplay, and real-time mechanics designed to feel responsive and playable.
 
 ### 🧠 Systems & Architecture
-Low-level technical projects including custom virtual machines, compilers, and computer architecture work.
+Technical projects involving virtual machines, compilers, custom computer architecture, and low-level systems exploration.
 
 ---
 
@@ -45,4 +49,4 @@ JavaScript • TypeScript • HTML • CSS • Three.js • PlayCanvas • Node.
 
 ## 📫 Contact
 
-Open to collaboration on games, gameplay systems, and interactive software.
+Open to collaboration on games, gameplay systems, multiplayer, and interactive software.
