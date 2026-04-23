@@ -12,7 +12,6 @@ I build gameplay systems for the web using JavaScript and TypeScript, with a foc
 - Multiplayer and real-time game mechanics
 - Game AI, bot behavior, and intelligent agents
 - Client/server gameplay logic and backend-supported features
-- UI / HUD systems integrated with gameplay
 
 ---
 
