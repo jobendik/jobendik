@@ -8,16 +8,16 @@ I build gameplay systems using JavaScript and TypeScript, with a focus on respon
 
 ## 🎮 What I build
 
-- Gameplay systems (combat, movement, interactions)
+- Gameplay systems
 - Multiplayer and real-time game mechanics
-- Game AI, bot behavior, and intelligent agents
+- Game AI, bot behavior, and autonomous agents
 - Client/server gameplay logic and backend-supported features
 
 ---
 
 ## 🚀 Selected Work
 
-### 🔫 TeamDeathmatch
+### 🔫 [TeamDeathmatch](https://github.com/jobendik/TeamDeathmatch)
 Browser-based multiplayer shooter prototype focused on responsive movement, weapon systems, combat feel, and core gameplay loops.
 
 ### 🤖 Game AI & Intelligent Agents
@@ -26,8 +26,15 @@ Experiments in bot behavior, autonomous agents, and gameplay logic for more dyna
 ### 🌐 Multiplayer & Real-Time Systems
 Work focused on synchronization, networked gameplay, and real-time mechanics designed to feel responsive and playable.
 
-### 🧠 Systems & Architecture
-Technical projects involving virtual machines, compilers, custom computer architecture, and low-level systems exploration.
+---
+
+## 🧠 Systems & Architecture
+
+I also have a strong interest in low-level systems, computer architecture, and custom tooling.
+
+I built **[Nexa](https://github.com/jobendik/Nexa)**, a custom 16-bit computer platform with its own ISA, assembler, VM, language, compiler, and operating system.
+
+My broader systems background also includes **Nand to Tetris**, **Ben Eater’s 8-bit computer and graphics card**, retro computing interests around **C64 / 6502-style systems**, and embedded experimentation with platforms such as **Arduino, ESP32, MicroBit, and Raspberry Pi**.
 
 ---
 
