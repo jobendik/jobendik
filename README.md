@@ -41,7 +41,7 @@ Background in low-level systems, computer architecture, custom tooling, 8-bit sy
 
 Try some of my work:
 
-- 🎯 [WarZone](https://github.com/jobendik/WarZone)
+- 🎯 [WarZone](https://jobendik.github.io/WarZone/)
 - 🎮 [Rift](https://playrift.no)
 - 🫂 [AveStella](https://www.avestella.com)
 - 🧪 [Arena](https://playrift.no/arena)
