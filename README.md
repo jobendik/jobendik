@@ -20,16 +20,20 @@ I build gameplay systems using JavaScript and TypeScript, with a focus on respon
 ### 🔫 [WarZone](https://github.com/jobendik/WarZone)
 Browser-based multiplayer shooter prototype focused on responsive movement, weapon systems, combat feel, and core gameplay loops.
 
-### 🤖 Game AI & Autonomous Agents
-Experiments in bot behavior, autonomous agents, and gameplay logic for more dynamic and believable game systems.
+### 🌐 [RiftMultiplayer](https://github.com/jobendik/RiftMultiplayer)
+Real-time multiplayer FPS prototype focused on responsiveness, combat feel, and playable online game systems.
 
-### 🌐 Multiplayer & Real-Time Systems
-Work focused on synchronization, networked gameplay, and real-time mechanics designed to feel responsive and playable.
+### 🫂 [AveStella](https://github.com/jobendik/AveStella)
+Multiplayer social platform prototype focused on shared environments and real-time interaction.
 
-### 🧠 Systems & Architecture
-Built **[Nexa](https://github.com/jobendik/Nexa)** — a custom 16-bit computer platform including ISA, assembler, VM, compiler, and operating system.
+### 🧠 [Nexa](https://github.com/jobendik/Nexa)
+Custom 16-bit computer platform including ISA, assembler, VM, compiler, and operating system.
 
-Background in low-level systems, computer architecture, and custom tooling, including **Nand2Tetris**, **8-bit systems**, and **embedded platforms**.
+---
+
+## 🧠 Systems Background
+
+Background in low-level systems, computer architecture, and custom tooling, including Nand2Tetris, 8-bit systems, and embedded platforms.
 
 ---
 
