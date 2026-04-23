@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Jo Bendik
 
-Gameplay Developer focused on gameplay systems, multiplayer, game feel, and technically ambitious game projects.
+Gameplay Developer building gameplay systems, multiplayer experiences, and technically ambitious game projects.
 
-I build gameplay systems for the web using JavaScript and TypeScript, with a focus on responsive combat, player movement, real-time systems, and intelligent game behavior.
+I build gameplay systems using JavaScript and TypeScript, with a focus on responsive combat, player movement, real-time systems, and intelligent game behavior.
 
 ---
 
