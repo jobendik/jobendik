@@ -23,6 +23,10 @@ I care about responsive controls, readable architecture, strong player feedback,
 
 ## 🚀 Selected Projects
 
+### 🧬 [GameEngine (Aether)](https://github.com/jobendik/GameEngine)
+
+A from-scratch WebGL2 3D game engine and visual editor built with TypeScript and zero runtime dependencies, featuring a PBR renderer, ECS, impulse physics, scripting, and an asset library.
+
 ### 🔫 [BreachVector](https://github.com/jobendik/BreachVector)
 
 A Phaser 3 + TypeScript tactical top-down shooter with stealth, enemy AI, destructible cover, weapons, objectives, and extraction-based missions.
@@ -46,6 +50,14 @@ A collection of 34 browser-based game prototypes exploring different genres, mec
 ### 🧠 [Nexa](https://github.com/jobendik/Nexa)
 
 A custom 16-bit computer platform including instruction set architecture, assembler, virtual machine, compiler, and operating system experiments.
+
+### 🫂 [AveStella](https://github.com/jobendik/AveStella)
+
+A multiplayer social platform prototype focused on shared environments and real-time interaction between players.
+
+### 🕯️ [Hollow](https://github.com/jobendik/Hollow)
+
+A polished, data-driven gothic visual-novel framework built with TypeScript and Vite, featuring procedural placeholder art and an original demo chapter.
 
 ---
 
