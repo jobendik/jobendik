@@ -39,10 +39,6 @@ A tactical sci-fi roguelite tower defense game built with TypeScript, Vite, and 
 
 A dark sci-fi roguelike deckbuilder prototype with card combat, relic systems, encounters, progression, and data-driven architecture.
 
-### ⚔️ [EchoesOfTheGrid](https://github.com/jobendik/EchoesOfTheGrid)
-
-A grid-based tactical deckbuilder where the player commands a squad of operators through combat, events, rest nodes, forge nodes, and boss encounters.
-
 ### 🧪 [GameDesignLab](https://github.com/jobendik/GameDesignLab)
 
 A collection of 34 browser-based game prototypes exploring different genres, mechanics, controls, game feel, and future full-game concepts.
@@ -54,10 +50,6 @@ A custom 16-bit computer platform including instruction set architecture, assemb
 ### 🫂 [AveStella](https://github.com/jobendik/AveStella)
 
 A multiplayer social platform prototype focused on shared environments and real-time interaction between players.
-
-### 🕯️ [Hollow](https://github.com/jobendik/Hollow)
-
-A polished, data-driven gothic visual-novel framework built with TypeScript and Vite, featuring procedural placeholder art and an original demo chapter.
 
 ---
 
